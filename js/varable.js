@@ -10,4 +10,10 @@ var myProject = [
         text: 'Aplikasi ini adalah Aplikasi untuk mendaftaran internet, baik melalui genrate script otomatis dan APi Aktifasi Otomatis dan didalamnya sudah terdapat tiket Sitem yang teringrasi dengan WhatsApp Bot <br>\
         di Buat dengan bahasa pemograman PHP(CI3),javascript,boostrap4,APi mikrotik dan APi SSH',
     },
+    {
+        title: 'WhastApp Bot',
+        img: ['whatsApp_logo.png', 'whatsApp_chat.PNG', 'whatsApp_menu.png', 'whatsApp_tiket.png'],
+        text: 'Aplikasi WhatsApp Bot ini bisa di gunakan sebagai Api untuk Blash Dan bisa juga sebagai Bot yang bisa membalas pesan Otomatis sesuai keinginan<br>\
+        Aplikasi di buat dengan Full javscript dengan NODEJS sebagai servernya',
+    },
 ]
