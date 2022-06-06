@@ -13,7 +13,7 @@ var myProject = [
     },
     {
         title: 'WhastApp Bot',
-        img: ['whatsApp_logo.png', 'whatsApp_chat.PNG', 'whatsApp_menu.png', 'whatsApp_tiket.png'],
+        img: ['whatsApp_logo.png', 'whatsApp_chat.PNG', 'whatsApp_menu.PNG', 'whatsApp_tiket.PNG'],
         text: 'Aplikasi WhatsApp Bot ini bisa di gunakan sebagai Api untuk Blash Dan bisa juga sebagai Bot yang bisa membalas pesan Otomatis sesuai keinginan<br>\
         Aplikasi di buat dengan Full javscript dengan Nodejs sebagai servernya',
     },

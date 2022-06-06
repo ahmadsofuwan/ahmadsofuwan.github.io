@@ -14,6 +14,7 @@ $(document).ready(function () {
             <img src="img/'+ val + '" class="d-block w-100" alt="img' + j + '">\
           </div>'
         });
+        
         var html = ' <div class="col-sm-4 py-2">\
             <div div class="card" >\
           <div id="slide'+ i + '" class="carousel slide" data-bs-ride="carousel">\
