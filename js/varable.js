@@ -2,7 +2,8 @@ var myProject = [
     {
         title: 'Gereja dangan notifikasi WhatsApp',
         img: ['gereja.jpeg', 'gereja_dashboard.png', 'gereja_jadwal.png', 'gereja_laporan.png', 'gerjah_create jadwal.png', 'gereja_blash.png'],
-        text: 'Aplikasi ini berfunsi sebagai aplikasi penjadwalan ibadah gerejah, yang di bantu blash WhastApp',
+        text: 'Aplikasi ini berfunsi sebagai aplikasi penjadwalan ibadah gerejah, yang di bantu blash WhastApp<br>\
+        Aplikasi ini di buat dengan php(CI3),javascript,boostrap4 dan terintegrasi dengan WhastApp Bot Nodejs',
     },
     {
         title: 'Automation Aktifasi Beebeenet',
@@ -14,6 +15,6 @@ var myProject = [
         title: 'WhastApp Bot',
         img: ['whatsApp_logo.png', 'whatsApp_chat.PNG', 'whatsApp_menu.png', 'whatsApp_tiket.png'],
         text: 'Aplikasi WhatsApp Bot ini bisa di gunakan sebagai Api untuk Blash Dan bisa juga sebagai Bot yang bisa membalas pesan Otomatis sesuai keinginan<br>\
-        Aplikasi di buat dengan Full javscript dengan NODEJS sebagai servernya',
+        Aplikasi di buat dengan Full javscript dengan Nodejs sebagai servernya',
     },
 ]
