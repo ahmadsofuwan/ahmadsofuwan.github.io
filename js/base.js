@@ -58,4 +58,14 @@ $(document).ready(function () {
     $('#loading' + i).remove();
     $('#rowProject').append(html);
   });
+  $.each(customer, function (i, value) {
+    var html =
+      '<div class="card col-sm-2 py-2 bg-body border-white">\
+    <img src="img/' + value.logo + '" class="card-img-top" alt="...">\
+    <div class="card-body">\
+      <h5 class="card-title fs-2">' + value.name + '</h5>\
+    </div>\
+  </div>';
+    $('#rowCustomer').append(html);
+  });
 });

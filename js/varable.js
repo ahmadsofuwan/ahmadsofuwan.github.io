@@ -93,3 +93,25 @@ var myProject = [
     di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
   },
 ];
+var customer = [
+  {
+    name: 'Wintera',
+    logo: 'wintera_logo.png',
+  },
+  {
+    name: 'Beebeenet',
+    logo: 'beebenet_logo.png',
+  },
+  {
+    name: 'Al-Iklas',
+    logo: 'al-iklas_logo.png',
+  },
+  {
+    name: 'Laskar138',
+    logo: 'laskar138.png',
+  },
+  {
+    name: 'MiniGold Jambi',
+    logo: 'minigold_logo.png',
+  },
+];
