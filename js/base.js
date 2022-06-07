@@ -1,4 +1,9 @@
 var body = '';
+$.each(myProject, function (index, val) {
+  var laoding = '';
+  laoding = '<img src="img/Spinner-1s-200px.svg" style="max-width: 30%" id="loading' + index + '"/>';
+  $('#rowProject').append(laoding);
+});
 $(document).ready(function () {
   $('ul > li > a').click(function () {
     $('ul > li > a').removeClass('active');
@@ -50,7 +55,7 @@ $(document).ready(function () {
           </div>\
         </div>\
       </div > ';
-    body += html;
+    $('#loading' + i).remove();
+    $('#rowProject').append(html);
   });
-  $('#rowProject').html(body);
 });
