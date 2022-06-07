@@ -22,7 +22,7 @@ $(document).ready(function () {
 
     var html =
       ' <div class="col-sm-4 py-2">\
-            <div div class="card text-dark fs-5 border border-light border-3" >\
+            <div div class="card text-dark fs-5 border border-3 shadow rounded" >\
           <div id="slide' +
       i +
       '" class="carousel slide" data-bs-ride="carousel">\

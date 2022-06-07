@@ -73,4 +73,23 @@ var myProject = [
     text: 'Aplikasi ini di buat untuk penghitungan transaksi jual beli MiniGold, termasuk laporan dan pengolahan user<br>\
     di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
   },
+  {
+    title: 'Live Streaming Tv',
+    img: [
+      'streaming_dashboard.png',
+      'streaming_inputChanel.png',
+      'streaming_inputContent.png',
+      'streaming_inputIklan.png',
+      'streaming_inputMenu.png',
+      'streaming_inputSeo.png',
+      'streaming_listChanel.png',
+      'streaming_listContent.png',
+      'streaming_listIklan.png',
+      'streaming_listLink.png',
+      'streaming_listSeo.png',
+      'streaming_logo.png',
+    ],
+    text: 'Aplikasi ini adalah web streaming yang di siarkan langsung dari peneydia content live dg di bantu server nginx <br>\
+    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+  },
 ];

@@ -13,4 +13,5 @@ section {
 
 .card {
   background-color: rgba(163, 206, 206, 0.192);
+  border-color: rgba(150, 150, 150, 0.664);
 }
