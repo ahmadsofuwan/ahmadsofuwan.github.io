@@ -114,4 +114,12 @@ var customer = [
     name: 'MiniGold Jambi',
     logo: 'minigold_logo.png',
   },
+  {
+    name: 'Gacor',
+    logo: 'gacor_logo.png',
+  },
+  {
+    name: 'NOBARTV',
+    logo: 'nobartv_logo.png',
+  },
 ];
