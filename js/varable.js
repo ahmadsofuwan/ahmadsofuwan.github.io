@@ -33,4 +33,22 @@ var myProject = [
     text: 'aplikasi ini untuk mencatat hafalan siswa, terdapat 2 role superadmin dan guru, hafalan sudah di buat secara dinamis, ada group hafalan, class dan guru<br>\
     di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
   },
+  {
+    title: 'Aplikasi Blog Poker',
+    img: [
+      'poker_dashboard.png',
+      'poker_inputIklan.png',
+      'poker_listIklan.png',
+      'poker_inputSitus.png',
+      'poker_listSitus.png',
+      'poker_inputConten.png',
+      'poker_listConten.png',
+      'poker_inputSeo.png',
+      'poker_listSeo.png',
+      'poker_inputUser.png',
+      'poker_listUser.png',
+    ],
+    text: 'Aplikasi ini untuk pempromosion suatus situs poker tertentu yang isi dari blog dinamis yang bisa di ubah-ubah di web adminnya<br>\
+    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+  },
 ];
