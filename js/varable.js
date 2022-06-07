@@ -51,4 +51,20 @@ var myProject = [
     text: 'Aplikasi ini untuk pempromosion suatus situs poker tertentu yang isi dari blog dinamis yang bisa di ubah-ubah di web adminnya<br>\
     di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
   },
+  {
+    title: 'Aplikasi Deposit Poker  ',
+    img: [
+      'deposit_dashboard.png',
+      'deposit_inputClaim.png',
+      'deposit_listClaim.png',
+      'deposit_inputCustomer.png',
+      'deposit_inputDeposit.png',
+      'deposit_listDeposit.png',
+      'deposit_inputReward.png',
+      'deposit_inputSetting.png',
+      'deposit_listLevel.png',
+    ],
+    text: 'Aplikasi ini di buat untuk penghitungan deposit suatus situs poker untuk perhitungan point, saldo deposit dan pencatatan claim hadiah semua bisa di lakukan di web Adminnya web indexnya untuk pengajuan claim hadiah dan cek poin dan level<br>\
+    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+  },
 ];
