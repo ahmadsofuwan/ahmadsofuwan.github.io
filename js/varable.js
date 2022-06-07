@@ -67,4 +67,10 @@ var myProject = [
     text: 'Aplikasi ini di buat untuk penghitungan deposit suatus situs poker untuk perhitungan point, saldo deposit dan pencatatan claim hadiah semua bisa di lakukan di web Adminnya web indexnya untuk pengajuan claim hadiah dan cek poin dan level<br>\
     di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
   },
+  {
+    title: 'Aplikasi MiniGold',
+    img: ['minigold_login.png', 'minigold_login.png', 'minigold_user.png', 'minigold_editUser.png'],
+    text: 'Aplikasi ini di buat untuk penghitungan transaksi jual beli MiniGold, termasuk laporan dan pengolahan user<br>\
+    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+  },
 ];
