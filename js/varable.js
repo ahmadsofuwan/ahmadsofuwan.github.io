@@ -92,6 +92,12 @@ var myProject = [
     text: 'Aplikasi ini adalah web streaming yang di siarkan langsung dari peneydia content live dg di bantu server nginx <br>\
     di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
   },
+  {
+    title: 'Hope property',
+    img: ['hopeproperty.png', 'hopeproperty_unit.png', 'hopeproperty_wilayah.png', 'hopeproperty_galery.png', 'hopeproperty_menu.png', 'hopeproperty_inputArticel.png', 'hopeproperty_inputGalery.png', 'hopeproperty_listGalery.png'],
+    text: 'Aplikasi ini adalah web pempromosian suatu perumahan yang bernama Hope property semua menu,content dan sub content dapat di atu di web adminnya sehingga bisa flexible di gunakan untuk promosi perumhan lainnya<br>\
+    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+  },
 ];
 var customer = [
   {
