@@ -31,7 +31,7 @@ var myProject = [
       'pesantren_inputSiswa.png',
     ],
     text: 'aplikasi ini untuk mencatat hafalan siswa, terdapat 2 role superadmin dan guru, hafalan sudah di buat secara dinamis, ada group hafalan, class dan guru<br>\
-    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+    di buat dengan php(CI3),javascript, bootstrap4 jquery dan mysql',
   },
   {
     title: 'Aplikasi Blog Poker',
@@ -49,7 +49,7 @@ var myProject = [
       'poker_listUser.png',
     ],
     text: 'Aplikasi ini untuk pempromosion suatus situs poker tertentu yang isi dari blog dinamis yang bisa di ubah-ubah di web adminnya<br>\
-    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+    di buat dengan php(CI3),javascript, bootstrap4 jquery dan mysql',
   },
   {
     title: 'Aplikasi Deposit Poker  ',
@@ -65,13 +65,13 @@ var myProject = [
       'deposit_listLevel.png',
     ],
     text: 'Aplikasi ini di buat untuk penghitungan deposit suatus situs poker untuk perhitungan point, saldo deposit dan pencatatan claim hadiah semua bisa di lakukan di web Adminnya web indexnya untuk pengajuan claim hadiah dan cek poin dan level<br>\
-    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+    di buat dengan php(CI3),javascript, bootstrap4 jquery dan mysql',
   },
   {
     title: 'Aplikasi MiniGold',
     img: ['minigold_login.png', 'minigold_login.png', 'minigold_user.png', 'minigold_editUser.png'],
     text: 'Aplikasi ini di buat untuk penghitungan transaksi jual beli MiniGold, termasuk laporan dan pengolahan user<br>\
-    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+    di buat dengan php(CI3),javascript, bootstrap4 jquery dan mysql',
   },
   {
     title: 'Live Streaming Tv',
@@ -90,13 +90,19 @@ var myProject = [
       'streaming_logo.png',
     ],
     text: 'Aplikasi ini adalah web streaming yang di siarkan langsung dari peneydia content live dg di bantu server nginx <br>\
-    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+    di buat dengan php(CI3),javascript, bootstrap4 jquery dan mysql',
   },
   {
-    title: 'Hope property',
-    img: ['hopeproperty.png', 'hopeproperty_unit.png', 'hopeproperty_wilayah.png', 'hopeproperty_galery.png', 'hopeproperty_menu.png', 'hopeproperty_inputArticel.png', 'hopeproperty_inputGalery.png', 'hopeproperty_listGalery.png'],
-    text: 'Aplikasi ini adalah web pempromosian suatu perumahan yang bernama Hope property semua menu,content dan sub content dapat di atu di web adminnya sehingga bisa flexible di gunakan untuk promosi perumhan lainnya<br>\
-    di buat dengan php(CI3),javascript, bostrap4 jquery dan mysql',
+    title: 'Love Bird',
+    img: ['loveBird_crypto.png','loveBird_dashboard.png','loveBird_lb.png','loveBird_marketplace.png','loveBird_merried.png','loveBird_sell.png','loveBird_store.png'],
+    text: 'aplikasi ini adalah game yang memlihara burung dengan menghasilkan coint sendiri dan bisa di jadikan crypto, saldo crypto bisa di top up menggunakan api BSUD<br>\
+    di buat dengan php(CI3),javascript, tailwindcss , bootstrap4, slick.js, jquery dan mysql',
+  },
+  {
+    title: 'Game Crypto',
+    img: ['crypto_login.png','crypto_register.png','crypto_item.png','crypto_wallet.png','crypto_youritem.png'],
+    text: 'aplikasi ini seperti game atau investasi di mana user bisa membeli item dengan persentasi tertentu yg bisa mendapatkan crypto pada setiap jamnya dan bisa di windraw ke walet masing-masing<br>\
+    di buat dengan php(CI3),javascript, tailwindcss , bootstrap 5, jquery dan mysql',
   },
 ];
 var customer = [
