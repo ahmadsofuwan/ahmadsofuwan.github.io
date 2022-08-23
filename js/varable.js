@@ -93,18 +93,26 @@ var myProject = [
     di buat dengan php(CI3),javascript, bootstrap4 jquery dan mysql',
   },
   {
+    title: 'POS Beebeenet',
+    img: ['posBbn_input.png', 'posBbn_kondisi.png', 'posBbn_output.png', 'posBbn_team.png', 'posBbn_teknisi.png'],
+    text: 'apilikasi ini hampir sma pada aplikasi pos pada umum nya hanya saja ini lebih di customs dan ada sistem closing serta ada barang return seperti yang ada pada kurir dan terdapat juga laporan rekap dari tanggal awal ke akhir<br>\
+    di buat dengan php(CI3),javascript, bootstrap4, jquery dan mysql',
+  },
+  {
     title: 'Love Bird',
-    img: ['loveBird_crypto.png','loveBird_dashboard.png','loveBird_lb.png','loveBird_marketplace.png','loveBird_merried.png','loveBird_sell.png','loveBird_store.png'],
+    img: ['loveBird_crypto.png', 'loveBird_dashboard.png', 'loveBird_lb.png', 'loveBird_marketplace.png', 'loveBird_merried.png', 'loveBird_sell.png', 'loveBird_store.png'],
     text: 'aplikasi ini adalah game yang memlihara burung dengan menghasilkan coint sendiri dan bisa di jadikan crypto, saldo crypto bisa di top up menggunakan api BSUD<br>\
     di buat dengan php(CI3),javascript, tailwindcss , bootstrap4, slick.js, jquery dan mysql',
   },
   {
     title: 'Game Crypto',
-    img: ['crypto_login.png','crypto_register.png','crypto_item.png','crypto_wallet.png','crypto_youritem.png'],
+    img: ['crypto_login.png', 'crypto_register.png', 'crypto_item.png', 'crypto_wallet.png', 'crypto_youritem.png'],
     text: 'aplikasi ini seperti game atau investasi di mana user bisa membeli item dengan persentasi tertentu yg bisa mendapatkan crypto pada setiap jamnya dan bisa di windraw ke walet masing-masing<br>\
     di buat dengan php(CI3),javascript, tailwindcss , bootstrap 5, jquery dan mysql',
   },
 ];
+
+
 var customer = [
   {
     name: 'Wintera',
