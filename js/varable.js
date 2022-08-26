@@ -110,6 +110,12 @@ var myProject = [
     text: 'aplikasi ini seperti game atau investasi di mana user bisa membeli item dengan persentasi tertentu yg bisa mendapatkan crypto pada setiap jamnya dan bisa di windraw ke walet masing-masing<br>\
     di buat dengan php(CI3),javascript, tailwindcss , bootstrap 5, jquery dan mysql',
   },
+  {
+    title: 'Justdoit',
+    img: ['jusdoit_login.png','jusdoit_history.png','jusdoit_indexActive.png','jusdoit_indexVerifa.png','jusdoit_indexVerifed.png','jusdoit_newAccount.png','jusdoit_profile.png','jusdoit_sendTicket.png'],
+    text: 'aplikasi ini menggunakan refferal sistem matahari setiap member harus membeli tiket yg di transfer oleh reffnya <br>\
+    di buat dengan php(CI3),javascript, tailwindcss , bootstrap 5, jquery dan mysql',
+  },
 ];
 
 
