@@ -112,7 +112,7 @@ var myProject = [
   },
   {
     title: 'Justdoit',
-    img: ['jusdoit_login.png','jusdoit_history.png','jusdoit_indexActive.png','jusdoit_indexVerifa.png','jusdoit_indexVerifed.png','jusdoit_newAccount.png','jusdoit_profile.png','jusdoit_sendTicket.png'],
+    img: ['jusdoit_login.png', 'jusdoit_history.png', 'jusdoit_indexActive.png', 'jusdoit_indexVerifa.png', 'jusdoit_indexVerifed.png', 'jusdoit_newAccount.png', 'jusdoit_profile.png', 'jusdoit_sendTicket.png'],
     text: 'aplikasi ini menggunakan refferal sistem matahari setiap member harus membeli tiket yg di transfer oleh reffnya <br>\
     di buat dengan php(CI3),javascript, tailwindcss , bootstrap 5, jquery dan mysql',
   },
@@ -149,3 +149,42 @@ var customer = [
     logo: 'nobartv_logo.png',
   },
 ];
+
+var skills = [
+  {
+    name: 'Bootstrap',
+    logo: 'bootstrap.png',
+    persentage: 90,
+    bgClass: 'bg-violet-600',
+  },
+  {
+    name: 'Tailwindcss',
+    logo: 'tailwindcss.png',
+    persentage: 90,
+    bgClass: 'bg-cyan-400',
+  },
+  {
+    name: 'PHP (CI3)',
+    logo: 'ci3.ico',
+    persentage: 85,
+    bgClass: 'bg-orange-500',
+  },
+  {
+    name: 'PHP (CI4)',
+    logo: 'ci3.ico',
+    persentage: 50,
+    bgClass: 'bg-orange-700',
+  },
+  {
+    name: 'Node.js',
+    logo: 'nodejs.png',
+    persentage: 30,
+    bgClass: 'bg-lime-600',
+  },
+  {
+    name: 'Laravel',
+    logo: 'laravel.svg',
+    persentage: 20,
+    bgClass: 'bg-red-600',
+  },
+]

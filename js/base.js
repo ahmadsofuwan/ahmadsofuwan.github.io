@@ -68,4 +68,24 @@ $(document).ready(function () {
   </div>';
     $('#rowCustomer').append(html);
   });
+  $.each(skills, function (i, value) {
+    const randomColor = Math.floor(Math.random() * 16777215).toString(16);
+
+
+    var html = '<div class="d-flex flex-row my-2 mx-5">';
+    html += '<div class="p-2 w-1/2 md:w-1/5 lg:w-1/6">' + value.name + '</div>';
+    html += '<div class="h-1/6"><img src="img/' + value.logo + '" alt="Logo ' + value.name + '"></div>';
+
+    html += '<div class="p-2 w-full">';
+    html += '<div class="w-full bg-gray-200 rounded-full dark:bg-gray-700">';
+
+    html += '<div class="' + value.bgClass + ' text-xs font-medium text-white text-center p-0.5 leading-none rounded-full" style = "width: ' + value.persentage + '%"> ' + value.persentage + ' %</div > ';
+
+    html += '</div">';
+    html += '</div">';
+    html += '</div>';
+
+    $('#skill').append(html);
+
+  })
 });
