@@ -160,7 +160,7 @@ var skills = [
   {
     name: 'Tailwindcss',
     logo: 'tailwindcss.png',
-    persentage: 90,
+    persentage: 70,
     bgClass: 'bg-cyan-400',
   },
   {
