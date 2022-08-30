@@ -187,4 +187,16 @@ var skills = [
     persentage: 20,
     bgClass: 'bg-red-600',
   },
+  {
+    name: 'C++',
+    logo: 'c++.png',
+    persentage: 10,
+    bgClass: 'bg-blue-700',
+  },
+  {
+    name: 'Python',
+    logo: 'python.png',
+    persentage: 10,
+    bgClass: 'bg-yellow-300',
+  },
 ]
