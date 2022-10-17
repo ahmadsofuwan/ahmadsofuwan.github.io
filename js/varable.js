@@ -178,13 +178,13 @@ var skills = [
   {
     name: 'Node.js',
     logo: 'nodejs.png',
-    persentage: 30,
+    persentage: 40,
     bgClass: 'bg-lime-600',
   },
   {
     name: 'Laravel',
     logo: 'laravel.svg',
-    persentage: 20,
+    persentage: 50,
     bgClass: 'bg-red-600',
   },
   {
