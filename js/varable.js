@@ -160,13 +160,13 @@ var skills = [
   {
     name: 'Tailwindcss',
     logo: 'tailwindcss.png',
-    persentage: 70,
+    persentage: 80,
     bgClass: 'bg-cyan-400',
   },
   {
     name: 'PHP (CI3)',
     logo: 'ci3.ico',
-    persentage: 85,
+    persentage: 90,
     bgClass: 'bg-orange-500',
   },
   {
@@ -184,7 +184,7 @@ var skills = [
   {
     name: 'Laravel',
     logo: 'laravel.svg',
-    persentage: 50,
+    persentage: 70,
     bgClass: 'bg-red-600',
   },
   {
