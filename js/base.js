@@ -89,3 +89,19 @@ $(document).ready(function () {
 
   })
 });
+$(document).ready(function () {
+  $.ajax({
+    url: 'https://api.github.com/users/ahmadsofuwan/repos',
+    type: 'get',
+    dataType: 'json',
+  })
+    .done(function (repo) {
+      $('#cout-repo').text(repo.length)
+      $.each(repo, function (i, val) {
+        $('#repo').append(`<li>${val.name}</li>`)
+
+      });
+    })
+
+
+});
