@@ -98,7 +98,7 @@ $(document).ready(function () {
     .done(function (repo) {
       $('#cout-repo').text(repo.length)
       $.each(repo, function (i, val) {
-        $('#repo').append(`<li>${val.name}</li>`)
+        $('#repo').append(`<li><span class="font-black">${i + 1}.</span> ${val.name}</li>`)
 
       });
     })
