@@ -121,6 +121,11 @@ var myProject = [
     img: ['newoneclick_dashboard.png','New-OneClick (1).png','New-OneClick (2).png','New-OneClick (3).png','New-OneClick (4).png','New-OneClick (5).png','New-OneClick (6).png'],
     text: 'New Oneclick adalah aplikasi oneclick yang telah dimigrasi dari CodeIgniter ke Laravel dan telah diintegrasikan dengan Beebeenet Automation Aktifasi yang telah dioptimalkan menggunakan Laravel dengan penyesuaian yang lebih fleksibel. Aplikasi ini dibuat menggunakan Laravel 9, Tailwind, jQuery, CSS, DataTable, dan sebagainya.',
   },
+  {
+    title: 'GVONetwork',
+    img: ['GVONetwork.png','GVONetwork (1).png','GVONetwork (2).png','GVONetwork (3).png'],
+    text: 'adalah web monitoring OLT yang mengggunakan SSH2 sebagai koneksi ke olt, web ini bisa monitoring olt dan aktivasi modem baru langsung dari web dengan menggunakan script yang flexsible bisa di ubah-ubah web ini di buat dengan menggunakan laravel 10 Tailwind, jQuery, CSS, DataTable, dan sebagainya.',
+  },
 ];
 
 
