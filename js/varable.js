@@ -126,6 +126,11 @@ var myProject = [
     img: ['GVONetwork.png','GVONetwork (1).png','GVONetwork (2).png','GVONetwork (3).png'],
     text: 'adalah web monitoring OLT yang mengggunakan SSH2 sebagai koneksi ke olt, web ini bisa monitoring olt dan aktivasi modem baru langsung dari web dengan menggunakan script yang flexsible bisa di ubah-ubah web ini di buat dengan menggunakan laravel 10 Tailwind, jQuery, CSS, DataTable, dan sebagainya.',
   },
+  {
+    title: 'OneMonBot',
+    img: ['OneMonBot (1).png','OneMonBot (1)3.png','OneMonBot (12.png','OneMonBot.png','OneMonBot Logo.png','addons.PNG','AI.PNG','list topup.PNG','OneMonBot (1)3.png','OneMonBot (3).png'],
+    text: 'OneMonBot adalah aplikasi web yang saya kembangkan sendiri dengan fitur WhatsApp bot. Aplikasi ini terbuka untuk pengguna yang tergabung dalam komunitas RT/TW net. OneMonBot terintegrasi dengan API Mikrotik, SSH, dan API WhatsApp bot, serta dilengkapi dengan berbagai fitur lainnya yang terus dikembangkan. Dokumentasi lengkap mengenai OneMonBot dapat ditemukan di onemonbot.com/docs. Aplikasi ini dibangun dengan menggunakan teknologi Laravel 9, Tailwind, jQuery, CSS, DataTable, dan masih banyak lagi',
+  },
 ];
 
 
@@ -194,7 +199,7 @@ var skills = [
   {
     name: 'Laravel',
     logo: 'laravel.svg',
-    persentage: 70,
+    persentage: 75,
     bgClass: 'bg-red-600',
   },
   {
