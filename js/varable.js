@@ -131,6 +131,11 @@ var myProject = [
     img: ['OneMonBot (1).png','OneMonBot (1)3.png','OneMonBot (12.png','OneMonBot.png','OneMonBot Logo.png','addons.PNG','AI.PNG','list topup.PNG','OneMonBot (1)3.png','OneMonBot (3).png'],
     text: 'OneMonBot adalah aplikasi web yang saya kembangkan sendiri dengan fitur WhatsApp bot. Aplikasi ini terbuka untuk pengguna yang tergabung dalam komunitas RT/TW net. OneMonBot terintegrasi dengan API Mikrotik, SSH, dan API WhatsApp bot, serta dilengkapi dengan berbagai fitur lainnya yang terus dikembangkan. Dokumentasi lengkap mengenai OneMonBot dapat ditemukan di a  <a href="https://onemonbot.com/docs">onemonbot.com/docs</a> . Aplikasi ini dibangun dengan menggunakan teknologi Laravel 9, Tailwind, jQuery, CSS, DataTable, dan masih banyak lagi',
   },
+  {
+    title: 'BankersDex',
+    img: ['BankersDex.png','BankersDex2.png','BankersDex3.png','BankersDex4.png'],
+    text: 'BankersDex adalah web untuk mining crypto yang di buat dengan laravel 10, tailwind,jquery dan mysql',
+  },
 ];
 
 
