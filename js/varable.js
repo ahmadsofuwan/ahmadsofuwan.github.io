@@ -129,12 +129,17 @@ var myProject = [
   {
     title: 'OneMonBot',
     img: ['OneMonBot (1).png','OneMonBot (1)3.png','OneMonBot (12.png','OneMonBot.png','OneMonBot Logo.png','addons.PNG','AI.PNG','list topup.PNG','OneMonBot (1)3.png','OneMonBot (3).png'],
-    text: 'OneMonBot adalah aplikasi web yang saya kembangkan sendiri dengan fitur WhatsApp bot. Aplikasi ini terbuka untuk pengguna yang tergabung dalam komunitas RT/TW net. OneMonBot terintegrasi dengan API Mikrotik, SSH, dan API WhatsApp bot, serta dilengkapi dengan berbagai fitur lainnya yang terus dikembangkan. Dokumentasi lengkap mengenai OneMonBot dapat ditemukan di a  <a href="https://onemonbot.com/docs">onemonbot.com/docs</a> . Aplikasi ini dibangun dengan menggunakan teknologi Laravel 9, Tailwind, jQuery, CSS, DataTable, dan masih banyak lagi',
+    text: 'OneMonBot adalah aplikasi web yang saya kembangkan sendiri dengan fitur WhatsApp bot. Aplikasi ini terbuka untuk pengguna yang tergabung dalam komunitas RT/TW net. OneMonBot terintegrasi dengan API Mikrotik, SSH, dan API WhatsApp bot, serta dilengkapi dengan berbagai fitur lainnya yang terus dikembangkan. Dokumentasi lengkap mengenai OneMonBot dapat ditemukan di a  <a class="text-blue-500" href="https://onemonbot.com">onemonbot.com</a> . Aplikasi ini dibangun dengan menggunakan teknologi Laravel 9, Tailwind, jQuery, CSS, DataTable, dan masih banyak lagi',
   },
   {
     title: 'BankersDex',
     img: ['BankersDex.png','BankersDex2.png','BankersDex3.png','BankersDex4.png'],
     text: 'BankersDex adalah web untuk mining crypto yang di buat dengan laravel 10, tailwind,jquery dan mysql',
+  },
+  {
+    title: 'One Esa Tunggal',
+    img: ['111_index.png','111_dasboard.png','111_consul.png','111_form.png','111_articel.png','111_footer.png'],
+    text: 'One Esa Tunggal adalah perusahaan web yang telah merancang platform internal yang dapat diakses melalui tautan <a class="text-blue-500" href="https://111.co.id">111.co.id</a>. Mereka membangun situs ini dengan menggabungkan teknologi terkini, seperti Laravel 10, Tailwind CSS, Bootstrap, serta bahasa pemrograman web seperti HTML, CSS, dan JavaScript. Dengan demikian, mereka berhasil menciptakan sebuah situs web yang andal, responsif, dan estetis, yang mungkin digunakan untuk keperluan internal seperti berbagi informasi, dokumentasi, atau alat kerja sama. Dengan pendekatan yang komprehensif terhadap pengembangan web, One Esa Tunggal menunjukkan komitmen mereka untuk selalu mengikuti perkembangan terbaru dalam dunia web.',
   },
 ];
 
@@ -167,6 +172,10 @@ var customer = [
   {
     name: 'NOBARTV',
     logo: 'nobartv_logo.png',
+  },
+  {
+    name: 'One Esa Tunggal',
+    logo: 'logo_111.jpg',
   },
 ];
 
