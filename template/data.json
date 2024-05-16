@@ -1,10 +1,10 @@
 [
     {
-        "nama": "mobili",
+        "name": "mobili",
         "file": "file/mobili.zip"
     },
     {
-        "nama": "buzzle",
+        "name": "buzzle",
         "file": "file/buzzle.zip"
     }
 ]
