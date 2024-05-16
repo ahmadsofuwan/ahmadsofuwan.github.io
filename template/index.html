@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template Free</title>
+    <link rel="stylesheet" href="../css/base.css" />
+    <link href="../src/output.css" rel="stylesheet">
+</head>
+
+<body class="bg-gradient-to-r from-blue-500 to-red-500 ">
+
+    <div class="container mx-auto px-4 py-4 rounded-lg grid  capitalize">
+        <h1 class="text-3xl font-bold text-center my-4 text-white">Free Template</h1>
+        <div class="grid grid-cols-8 gap-4 list-disc justify-center"></div>
+    </div>
+
+</body>
+
+</html>
+<script>
+    // Fungsi untuk memuat data JSON dari file lokal
+    async function loadData() {
+        try {
+            const response = await fetch('data.json');
+            const data = await response.json();
+            displayData(data);
+        } catch (error) {
+            console.error('Gagal memuat data:', error);
+        }
+    }
+
+    // Fungsi untuk menampilkan data ke dalam HTML dengan menggunakan grid
+    function displayData(data) {
+        const list = document.querySelector('.list-disc');
+        data.forEach(item => {
+            list.innerHTML += `
+                <div class="bg-gray-300 p-2 rounded">
+                    <div class="text-center mb-2"> <a href="${item.nama}" class="text-blue-">${item.nama}</a></div>
+                    <div class="flex justify-center">
+                    <button class="mx-auto bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onclick="window.location.href='${item.file}'">Download</button>
+                    </div>
+                </div>
+            `;
+        });
+    }
+
+    // Memanggil fungsi loadData saat dokumen telah dimuat
+    document.addEventListener('DOMContentLoaded', loadData);
+</script>
