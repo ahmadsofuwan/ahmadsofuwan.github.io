@@ -213,7 +213,7 @@ var skills = [
   {
     name: 'Laravel',
     logo: 'laravel.svg',
-    persentage: 75,
+    persentage: 90,
     bgClass: 'bg-red-600',
   },
   {
