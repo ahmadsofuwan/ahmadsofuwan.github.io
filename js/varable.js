@@ -237,4 +237,10 @@ var skills = [
     persentage: 10,
     bgClass: 'bg-yellow-300',
   },
+  {
+    name: 'Manage VPS',
+    logo: 'ubuntu.png',
+    persentage: 80,
+    bgClass: 'bg-emerald-500',
+  },
 ]
